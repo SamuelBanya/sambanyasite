@@ -72,13 +72,9 @@
     opacity: 0.3;
 }
 
-.linktree-button:first-child {
-    background-color:#ccc;
-    color:#000;
-}
-
 .linktree-button:hover {
-    color:#000!important;background-color:#ccc!important
+    color:#000!important;
+    background-color:blue!important
 }
 
 /* Fancybox CSS */
