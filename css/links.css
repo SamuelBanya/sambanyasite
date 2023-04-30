@@ -96,5 +96,6 @@ a[data-fancybox] img {
 
 /* Pushing margin to zero to help make both pages look similar */
 body {
-  margin: 0;
+    margin: 0;
+    text-align: center;
 }
