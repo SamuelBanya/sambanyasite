@@ -69,7 +69,8 @@
     white-space: nowrap;
     width: 100%;
     padding: 8px 16px;
-    border-radius: 16px
+    border-radius: 16px;
+    margin-bottom: 25px;
 }
 
 .linktree-button:disabled {
